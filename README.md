@@ -8,8 +8,6 @@
 <a href="https://www.facebook.com/95bbr"><img src="https://img.shields.io/badge/BBR-FB-success" alt="Build Status"></a>
 </p>
 
-Retrieving User Resources from Google over the OAuth 2.0 Authorization Code Grant Type
-
 More Info
 ----------------------
 ```  
