@@ -1,5 +1,3 @@
-OAuth-2.0-Demo
-
 OAuth 2.0 Demostration
 ======================
 
